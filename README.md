@@ -1,7 +1,9 @@
 # Machine Learning Project Repository
 
 This repository documents my journey and projects through a comprehensive Stanford machine learning specialization. Here, I delve into the practical application of building and training machine learning models, leveraging Python and prominent libraries such as NumPy, scikit-learn, and TensorFlow. My work in this repository spans various aspects of machine learning, from foundational model construction to the intricacies of neural network training for complex classification tasks.
-
+[Stanford: Regression and Classification Certificate](https://github.com/AliesTaha/Stanford-ML/files/14736380/Coursera.R74L4AKM89DQ.pdf)
+<br>
+<img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/436be36c-e42f-4ff9-8b9b-7d03ebc1b798" width="680">
 ## Project Summaries
 
 ### Supervised Learning Models with NumPy and scikit-learn
@@ -39,7 +41,3 @@ This repository documents my journey and projects through a comprehensive Stanfo
 ## Reflections
 
 Through this course, I have embarked on a rigorous exploration of machine learning, applying theoretical concepts to practical projects and developing a solid foundation in both the technical and conceptual aspects of the field. This repository is a comprehensive record of my learning journey, showcasing the projects I've undertaken and the skills I've acquired.
-
-[Stanford: Regression and Classification Certificate](https://github.com/AliesTaha/Stanford-ML/files/14736380/Coursera.R74L4AKM89DQ.pdf)
-<br>
-<img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/436be36c-e42f-4ff9-8b9b-7d03ebc1b798" width="680">
