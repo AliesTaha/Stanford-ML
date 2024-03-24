@@ -1,4 +1,5 @@
 # Stanford-ML
 All things ML 
 
-https://coursera.org/share/60a2fb4c95311cdc508504a1b4e14de5
+
+[Coursera R74L4AKM89DQ.pdf](https://github.com/AliesTaha/Stanford-ML/files/14736380/Coursera.R74L4AKM89DQ.pdf)
