@@ -1,6 +1,6 @@
 # Machine Learning Project Repository
 
-This repository documents my journey and projects through a comprehensive machine learning course. Here, I delve into the practical application of building and training machine learning models, leveraging Python and prominent libraries such as NumPy, scikit-learn, and TensorFlow. My work in this repository spans various aspects of machine learning, from foundational model construction to the intricacies of neural network training for complex classification tasks.
+This repository documents my journey and projects through a comprehensive Stanford machine learning specialization. Here, I delve into the practical application of building and training machine learning models, leveraging Python and prominent libraries such as NumPy, scikit-learn, and TensorFlow. My work in this repository spans various aspects of machine learning, from foundational model construction to the intricacies of neural network training for complex classification tasks.
 
 ## Project Summaries
 
