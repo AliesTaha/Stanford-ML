@@ -5,6 +5,9 @@ This repository documents my journey and projects through a comprehensive Stanfo
 [Stanford: Regression and Classification Certificate](https://github.com/AliesTaha/Stanford-ML/files/14736380/Coursera.R74L4AKM89DQ.pdf)
 <br>
 <img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/436be36c-e42f-4ff9-8b9b-7d03ebc1b798" width="680">
+
+[Coursera Q699C782H7HU.pdf](https://github.com/AliesTaha/Stanford-ML/files/14811659/Coursera.Q699C782H7HU.pdf)
+
 ## Project Summaries
 
 ### Supervised Learning Models with NumPy and scikit-learn
