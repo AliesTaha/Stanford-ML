@@ -19,8 +19,6 @@ This repository documents my journey and projects through a comprehensive Stanfo
     </a>
 </div>
 
-
-
 ## Project Summaries
 
 ### Supervised Learning Models with NumPy and scikit-learn
