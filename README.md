@@ -2,21 +2,24 @@
 
 This repository documents my journey and projects through a comprehensive Stanford machine learning specialization. Here, I delve into the practical application of building and training machine learning models, leveraging Python and prominent libraries such as NumPy, scikit-learn, and TensorFlow. My work in this repository spans various aspects of machine learning, from foundational model construction to the intricacies of neural network training for complex classification tasks.
 
-[Machine Learning.pdf](https://github.com/AliesTaha/Stanford-ML/files/15004446/Machine.Learning.pdf)
-<br>
-<img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/e2eca22f-f5f8-4ce7-b843-ecc4d4488883" width="680">
+<div style="display: flex; flex-direction: row;">
+    <a href="https://github.com/AliesTaha/Stanford-ML/files/15004446/Machine.Learning.pdf">
+        <img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/e2eca22f-f5f8-4ce7-b843-ecc4d4488883" width="500">
+    </a>
+    <a href="https://github.com/AliesTaha/Stanford-ML/files/14736380/Coursera.R74L4AKM89DQ.pdf">
+        <img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/436be36c-e42f-4ff9-8b9b-7d03ebc1b798" width="500">
+    </a>
+</div>
+<div style="display: flex; flex-direction: row;">
+    <a href="https://github.com/AliesTaha/Stanford-ML/files/14811659/Coursera.Q699C782H7HU.pdf">
+        <img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/143be26d-1f30-4805-a0c8-220202f04480" width="500">
+    </a>
+    <a href="https://github.com/AliesTaha/Stanford-ML/files/15004453/Unsupervised.Learning.Recommenders.Reinforcement.Learning.pdf">
+        <img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/48778e8d-4986-4b57-b23d-33d830e2d6af" width='500">
+    </a>
+</div>
 
-[Stanford: Regression and Classification Certificate](https://github.com/AliesTaha/Stanford-ML/files/14736380/Coursera.R74L4AKM89DQ.pdf)
-<br>
-<img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/436be36c-e42f-4ff9-8b9b-7d03ebc1b798" width="680">
 
-[Stanford Advanced Learning Algorithms Certificate](https://github.com/AliesTaha/Stanford-ML/files/14811659/Coursera.Q699C782H7HU.pdf)
-<br>
-<img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/143be26d-1f30-4805-a0c8-220202f04480" width="680">
-
-[Unsupervised Learning, Recommenders, Reinforcement Learning.pdf](https://github.com/AliesTaha/Stanford-ML/files/15004453/Unsupervised.Learning.Recommenders.Reinforcement.Learning.pdf)
-<br>
-<img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/7350462b-185e-4518-b2e0-3af346f425fd" width="680">
 
 ## Project Summaries
 
