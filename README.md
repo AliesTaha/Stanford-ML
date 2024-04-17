@@ -4,7 +4,7 @@ This repository documents my journey and projects through a comprehensive Stanfo
 
 [Machine Learning.pdf](https://github.com/AliesTaha/Stanford-ML/files/15004446/Machine.Learning.pdf)
 <br>
-<img src="<img width="1042" alt="image" src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/e2eca22f-f5f8-4ce7-b843-ecc4d4488883" width="680">
+<img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/e2eca22f-f5f8-4ce7-b843-ecc4d4488883" width="680">
 
 [Stanford: Regression and Classification Certificate](https://github.com/AliesTaha/Stanford-ML/files/14736380/Coursera.R74L4AKM89DQ.pdf)
 <br>
@@ -14,9 +14,9 @@ This repository documents my journey and projects through a comprehensive Stanfo
 <br>
 <img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/143be26d-1f30-4805-a0c8-220202f04480" width="680">
 
-[Stanford Advanced Learning Algorithms Certificate](https://github.com/AliesTaha/Stanford-ML/files/14811659/Coursera.Q699C782H7HU.pdf)
+[Unsupervised Learning, Recommenders, Reinforcement Learning.pdf](https://github.com/AliesTaha/Stanford-ML/files/15004453/Unsupervised.Learning.Recommenders.Reinforcement.Learning.pdf)
 <br>
-<img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/143be26d-1f30-4805-a0c8-220202f04480" width="680">
+<img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/7350462b-185e-4518-b2e0-3af346f425fd" width="680">
 
 ## Project Summaries
 
