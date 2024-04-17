@@ -4,18 +4,18 @@ This repository documents my journey and projects through a comprehensive Stanfo
 
 <div style="display: flex; flex-direction: row;">
     <a href="https://github.com/AliesTaha/Stanford-ML/files/15004446/Machine.Learning.pdf">
-        <img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/e2eca22f-f5f8-4ce7-b843-ecc4d4488883" width="500">
+        <img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/e2eca22f-f5f8-4ce7-b843-ecc4d4488883" width="400">
     </a>
     <a href="https://github.com/AliesTaha/Stanford-ML/files/14736380/Coursera.R74L4AKM89DQ.pdf">
-        <img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/436be36c-e42f-4ff9-8b9b-7d03ebc1b798" width="500">
+        <img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/436be36c-e42f-4ff9-8b9b-7d03ebc1b798" width="400">
     </a>
 </div>
 <div style="display: flex; flex-direction: row;">
     <a href="https://github.com/AliesTaha/Stanford-ML/files/14811659/Coursera.Q699C782H7HU.pdf">
-        <img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/143be26d-1f30-4805-a0c8-220202f04480" width="500">
+        <img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/143be26d-1f30-4805-a0c8-220202f04480" width="400">
     </a>
     <a href="https://github.com/AliesTaha/Stanford-ML/files/15004453/Unsupervised.Learning.Recommenders.Reinforcement.Learning.pdf">
-        <img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/48778e8d-4986-4b57-b23d-33d830e2d6af" width='500">
+        <img src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/48778e8d-4986-4b57-b23d-33d830e2d6af" width='400">
     </a>
 </div>
 
