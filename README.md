@@ -4,7 +4,7 @@ This repository documents my journey and projects through a comprehensive Stanfo
 
 [Machine Learning.pdf](https://github.com/AliesTaha/Stanford-ML/files/15004446/Machine.Learning.pdf)
 <br>
-<img src="<img width="1042" alt="image" src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/e2eca22f-f5f8-4ce7-b843-ecc4d4488883">" width="680">
+<img src="<img width="1042" alt="image" src="https://github.com/AliesTaha/Stanford-ML/assets/103478551/e2eca22f-f5f8-4ce7-b843-ecc4d4488883" width="680">
 
 [Stanford: Regression and Classification Certificate](https://github.com/AliesTaha/Stanford-ML/files/14736380/Coursera.R74L4AKM89DQ.pdf)
 <br>
